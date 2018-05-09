@@ -2,5 +2,5 @@ this is the file correct
 
 here is the junk
 
-and here's Glenn's addition
+and here's Glenn's addition... the last line is now longer
 
