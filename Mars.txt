@@ -1,4 +1,4 @@
-Hooray! we are learing git!
+Glenn changed the first line. Hooray! we are learing git!
 
 this is the file correct
 
