@@ -1,1 +1,1 @@
-Glenn changed the first line. This is the Jupiter folder 
+This is the Jupiter and another folder with conflicts resolved
