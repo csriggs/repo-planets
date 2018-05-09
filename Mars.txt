@@ -1,3 +1,5 @@
+Hooray! we are learing git!
+
 this is the file correct
 
 here is the junk
